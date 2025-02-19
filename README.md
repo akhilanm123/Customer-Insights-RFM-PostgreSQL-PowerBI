@@ -28,14 +28,32 @@ The goal of this project is to analyze customer purchasing behavior and segment 
   - **Dashboard Interaction** - <a href="https://github.com/akhilanm123/Customer-Insights-RFM-PostgreSQL-PowerBI/blob/main/csa.pbix">Customer-Insights-RFM-PostgreSQL-PowerBI</a>
   ## Dashboard Insights
   ### 1. Customer & Revenue Insights
+   **Objective**:  Identify revenue-driving customer segments and track business growth trends.
   ![Customer And Revenue Insights Dashboard](https://github.com/user-attachments/assets/7aa21148-601a-4e2b-94d2-3e70373c0667)
-  **Objective**:  Identify revenue-driving customer segments and track business growth trends.
+- **Total Revenue**: **$8.89M**, with VIP customers contributing **$4.4M (49.4%)**.
+- **Lost Customer Revenue**: **44.2%** of total revenue is lost due to churn.
+- **Customer Segmentation**: **Regular customers form 41.42%** of the base, while **VIPs (11.16%)** generate the most revenue.
+- **Business Impact**: Growing the VIP segment and improving retention strategies for regular customers can boost revenue.
+ 
   ### 2. Customer Retention & Revenue Insights
+   **Objective**: Understand customer retention trends, customer lifetime value (CLV), and revenue contributions.
   ![Customer Retention And Revenue Insights Dashboard](https://github.com/user-attachments/assets/85b1e07d-861e-455e-91bf-cac4c92a619f)
-  **Objective**: Understand customer retention trends, customer lifetime value (CLV), and revenue contributions.
+ - **Retention Rate**: **81.56%**, with **VIP customers88 contributing the **highest Customer Lifetime Value (CLV - $18K)**.
+ - **Revenue Distribution**: **Regular customers** contribute **$4K CLV**, while **lost customers** generate almost **no revenue**.
+ - **Repeat Purchase Behavior**: **VIPs and loyal customers** have the **highest repeat purchase rates (28.3%)**.
+ - **Business Impact**: Investing in loyalty programs can **increase retention and long-term revenue**.
+ 
   ### 3. Customer Churn & Revenue Impact
+  **Objective**: Analyze customer churn trends, revenue loss, and at-risk segments.
   ![Customer Churn And Revenue Impact Dashboard](https://github.com/user-attachments/assets/3ebc917d-4943-49e7-b6ae-6f4979472d42)
-   **Objective**: Analyze customer churn trends, revenue loss, and at-risk segments.
+ - **Churn Rate**: **16%**, leading to a **$705K** revenue loss.
+ - **High-Risk Customers**: **36.26%** of customers are at **high risk of churn**, requiring retention efforts.
+ - **Segment-Wise Churn Contribution**: **Regular customers** make up **37.98%** of **churned revenue**, highlighting the need for engagement.
+ - **Business Impact**: Targeting **high-risk customers** can **reduce churn and prevent further revenue loss**.
+
+   ## Final Conclusion
+   This project demonstrates the power of **data-driven decision-making** in customer segmentation and revenue optimization. By leveraging **PostgreSQL for database management, RFM analysis for segmentation, and Power BI for visualization**, we uncovered critical insights into customer behavior, retention, and churn. These findings provide a strategic foundation for businesses to **enhance customer engagement, reduce revenue loss, and drive sustainable growth**.
+
 
 
 
