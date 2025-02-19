@@ -5,4 +5,6 @@ The goal of this project is to analyze customer purchasing behavior and segment 
  - Who are our most valuable customers?
 - Which customer segments contribute the most revenue?
 - What is the churn rate, and how does it impact revenue?
-- How can we retain customers and increase repeat purchases?
+- How can we retain customers and increase repeat purchases
+### Dataset Used
+- <a href="https://www.kaggle.com/code/fabiendaniel/customer-segmentation/input">Customer Segmentataion Data</a>
