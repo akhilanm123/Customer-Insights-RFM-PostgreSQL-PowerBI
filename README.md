@@ -26,3 +26,16 @@ The goal of this project is to analyze customer purchasing behavior and segment 
   - **Customer Churn & Revenue Impact** – Analysis of churn probability and revenue loss.
   - **Customer & Revenue Insights** – Comprehensive revenue and customer segmentation trends.
   - **Dashboard Interaction** - <a href="https://github.com/akhilanm123/Customer-Insights-RFM-PostgreSQL-PowerBI/blob/main/csa.pbix">Customer-Insights-RFM-PostgreSQL-PowerBI</a>
+  ## Dashboard Insights
+  ### 1. Customer & Revenue Insights
+  ![Customer And Revenue Insights Dashboard](https://github.com/user-attachments/assets/7aa21148-601a-4e2b-94d2-3e70373c0667)
+  **Objective**:  Identify revenue-driving customer segments and track business growth trends.
+  ### 2. Customer Retention & Revenue Insights
+  ![Customer Retention And Revenue Insights Dashboard](https://github.com/user-attachments/assets/85b1e07d-861e-455e-91bf-cac4c92a619f)
+  **Objective**: Understand customer retention trends, customer lifetime value (CLV), and revenue contributions.
+  ### 3. Customer Churn & Revenue Impact
+  ![Customer Churn And Revenue Impact Dashboard](https://github.com/user-attachments/assets/3ebc917d-4943-49e7-b6ae-6f4979472d42)
+   **Objective**: Analyze customer churn trends, revenue loss, and at-risk segments.
+
+
+
